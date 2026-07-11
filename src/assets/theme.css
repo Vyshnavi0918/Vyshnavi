@@ -1,0 +1,18 @@
+/* This file handles body.dark class toggling for CSS variable switching */
+body.dark {
+  --bg-primary: #0b0f19;
+  --bg-secondary: #111827;
+  --bg-card: rgba(255, 255, 255, 0.04);
+  --bg-card-hover: rgba(255, 255, 255, 0.08);
+  --border-glass: rgba(255, 255, 255, 0.08);
+  --border-glass-hover: rgba(255, 255, 255, 0.18);
+  --text-primary: #f1f5f9;
+  --text-secondary: #94a3b8;
+  --text-muted: #475569;
+  --shadow-glass: 0 8px 32px rgba(0, 0, 0, 0.5);
+  --shadow-card: 0 4px 24px rgba(0, 0, 0, 0.4);
+  --sidebar-bg: linear-gradient(180deg, #111827 0%, #0b0f19 100%);
+  --navbar-bg: rgba(11, 15, 25, 0.95);
+  background: var(--bg-primary);
+  color: var(--text-primary);
+}

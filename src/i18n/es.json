@@ -1,0 +1,40 @@
+{
+  "home": {
+    "title": "Plataforma de Ingresos Recurrentes",
+    "tagline": "Potenciando los ingresos recurrentes para todos",
+    "welcome": "Bienvenido a BillFlow Pro",
+    "loginButton": "Iniciar sesión",
+    "signupButton": "Comenzar gratis",
+    "feature1": "Análisis Inteligente",
+    "feature1Desc": "Visualiza tendencias de ingresos en tiempo real.",
+    "feature2": "Facturación sin esfuerzo",
+    "feature2Desc": "Genera facturas hermosas con un clic.",
+    "feature3": "Multilingüe",
+    "feature3Desc": "Soporte completo para 6 idiomas.",
+    "feature4": "Seguro y Confiable",
+    "feature4Desc": "Seguridad de nivel empresarial para tus datos."
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "customers": "Clientes",
+    "plans": "Planes",
+    "subscriptions": "Suscripciones",
+    "billing": "Facturación",
+    "reports": "Informes",
+    "profile": "Perfil",
+    "settings": "Configuración"
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "export": "Exportar",
+    "add": "Agregar nuevo",
+    "loading": "Cargando...",
+    "success": "Éxito",
+    "error": "Error"
+  }
+}

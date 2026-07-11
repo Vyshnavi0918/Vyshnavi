@@ -1,0 +1,40 @@
+{
+  "home": {
+    "title": "Revenue Recurring Platform",
+    "tagline": "Empowering Recurring Revenue for Everyone",
+    "welcome": "Welcome to BillFlow Pro",
+    "loginButton": "Sign In",
+    "signupButton": "Get Started Free",
+    "feature1": "Smart Analytics",
+    "feature1Desc": "Visualize revenue trends and growth in real-time.",
+    "feature2": "Seamless Billing",
+    "feature2Desc": "Generate beautiful invoices with one click.",
+    "feature3": "Multi-Language",
+    "feature3Desc": "Full support for 6 languages out of the box.",
+    "feature4": "Secure & Reliable",
+    "feature4Desc": "Enterprise-grade security for your data."
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "customers": "Customers",
+    "plans": "Plans",
+    "subscriptions": "Subscriptions",
+    "billing": "Billing",
+    "reports": "Reports",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "filter": "Filter",
+    "export": "Export",
+    "add": "Add New",
+    "loading": "Loading...",
+    "success": "Success",
+    "error": "Error"
+  }
+}

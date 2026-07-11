@@ -1,0 +1,40 @@
+{
+  "home": {
+    "title": "Wiederkehrende Einnahmen-Plattform",
+    "tagline": "Wiederkehrende Einnahmen für alle stärken",
+    "welcome": "Willkommen bei BillFlow Pro",
+    "loginButton": "Anmelden",
+    "signupButton": "Kostenlos starten",
+    "feature1": "Intelligente Analysen",
+    "feature1Desc": "Umsatztrends in Echtzeit visualisieren.",
+    "feature2": "Nahtlose Abrechnung",
+    "feature2Desc": "Rechnungen mit einem Klick erstellen.",
+    "feature3": "Mehrsprachig",
+    "feature3Desc": "Volle Unterstützung für 6 Sprachen.",
+    "feature4": "Sicher & Zuverlässig",
+    "feature4Desc": "Unternehmensweite Sicherheit für Ihre Daten."
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "customers": "Kunden",
+    "plans": "Pläne",
+    "subscriptions": "Abonnements",
+    "billing": "Abrechnung",
+    "reports": "Berichte",
+    "profile": "Profil",
+    "settings": "Einstellungen"
+  },
+  "common": {
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "export": "Exportieren",
+    "add": "Neu hinzufügen",
+    "loading": "Wird geladen...",
+    "success": "Erfolg",
+    "error": "Fehler"
+  }
+}
